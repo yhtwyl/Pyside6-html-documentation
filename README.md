@@ -4,7 +4,7 @@
 ---
 
 ## Overview
-Please click the release button on right side if you want the readymade meal. Otherwise read below.
+Please click the release button on right side if you want the readymade meal. Otherwise keep reading.
 This guide builds the complete PySide6 6.11.1 HTML documentation with working
 cross-module links (QtCore, QtGui, QtWidgets etc.) on Debian Trixie using Python
 3.12 via pyenv. System Python 3.13.5 is bypassed entirely.
