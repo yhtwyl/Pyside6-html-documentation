@@ -4,8 +4,11 @@
 ---
 
 ## Overview
-Please click the release button on right side if you want the readymade meal. Otherwise keep reading.
-This guide builds the complete PySide6 6.11.1 HTML documentation with working
+Please click the release button on right side if you want the readymade meal. 
+Download it, extract and you will find a html directory inside it . This html directory
+also contains pyside6.qch file which can be used to integrate with qt creator or assistant.
+If you want to build on your native machine then keep reading and good luck to you.
+This guide builds the complete PySide6 6.11.1 HTML and QCH documentation with working
 cross-module links (QtCore, QtGui, QtWidgets etc.) on Debian Trixie using Python
 3.12 via pyenv. System Python 3.13.5 is bypassed entirely.
 
